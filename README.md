@@ -4,7 +4,7 @@ A simple browser-based PlayStation 1 emulator that lets you load and play PS1 ga
 
 ## What it does
 
-This project provides a lightweight front-end for running PS1 ROMs in a web browser. You can upload a game image, and the app loads the PSX emulator core so you can start playing without a separate backend.
+This project provides some code for running PS1 ROMs in a web browser. You can upload a game image, and the app loads the PSX emulator core so you can start playing without a separate backend.
 
 ## Features
 
@@ -53,9 +53,4 @@ http://localhost:8000
 ## Notes
 
 - This project relies on the EmulatorJS CDN (`https://cdn.emulatorjs.org`).
-- Some games may require a BIOS or additional setup depending on your browser and emulator configuration.
-- This is a lightweight demo project intended for local use and experimentation.
-
-## License
-
-This project includes an open-source license in the repository.
+so you need an internet connection
